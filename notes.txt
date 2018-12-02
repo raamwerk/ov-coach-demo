@@ -1,0 +1,10 @@
+- iconen gebruiken
+- tikbare links vanuit de app voor URL's en telefoonnummers
+- kortere zinnen
+- vraagantwoordvorm alleen als het moet
+- voor nu kosten voor servicenummer niet vermeld; overleggen of dit nodig is
+- telnr contactpersoon variable / json data regexp
+- is het handig om van te voren (voor het plannen van een reis) te moeten kiezen tussen trein / tram / metro / bus? een reis kan bijv. deels per bus, deels per trein gaan.
+
+gebruiken voor MD-implementatie:
+https://www.npmjs.com/package/react-native-markdown-renderer

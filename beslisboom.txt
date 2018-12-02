@@ -1,0 +1,47 @@
+Hallo. Ik ben de OV-coach. Waarmee kan ik je helpen?
+1: Ik wil gebruik maken van het OV en wil mijn reis voorbereiden.
+2: Ik ben onderweg met het OV en heb een probleem.
+3: Ik wil gebruik maken van een taxi.
+
+1 -> Goed dat je je reis wilt voorbereiden. Waarmee kan ik je helpen?
+1: Ik wil mijn reis plannen en een reisroute maken.
+2: Ik wil weten wat ik mee moet nemen als ik gebruik maak van het OV.
+3: Ik wil graag vooraf informatie lezen.
+4: Ik wil iets anders weten
+
+1.1 -> Als je je reis gaat plannen is het belangrijk om een aantal dingen te weten. Weet je vanaf welk adres je gaat vertrekken?
+1: Ja. Ik weet vanaf welk adres ik ga vertrekken.
+2: Nee. Ik weet niet vanaf welk adres ik ga vertrekken.
+
+1.1.1 -> Prima. Weet je naar welk adres je heen reist?
+1: Ja. Ik weet naar welk adres ik heen reis.
+2: Nee. Ik weet niet naar welk adres ik heenreis.
+
+1.1.1.1 -> Prima. Weet je hoelaat je wilt vertrekken vanaf je vertrekpunt of hoelaat je wilt aankomen op je bestemming?
+1: Ja. Ik weet hoelaat ik wil vertrekken of hoelaat ik wil aankomen.
+2: Nee. Ik weet niet hoelaat ik wil vertrekken of hoelaat ik wil aankomen.
+
+1.1.1.1.1 -> Prima. Je kunt op verschillende manieren je reis plannen.
+1: Ik maak gebruik van de pc en ga naar http://www.9292.nl/
+2: Ik bel naar 0900-9292 (€ 0,70 per minuut).
+3: Ik maak gebruik van mijn smartphone en gebruik de 9292app.
+4: Ik maak gebruik van mijn smartphone en ga naar m.9292.nl.
+
+1.1.1.1.1.1 -> Volg de instructies op de website. Is het gelukt om je reis te plannen?
+1: Ja. Het is gelukt om mijn reis te plannen.
+2: Nee. Het is mij niet gelukt om mijn reis te plannen.
+
+1.1.1.1.1.1.1 -> Het is verstandig om de route uit te printen of op te schrijven om mee te nemen.
+1: Ok. Ik print de route uit of schrijf deze op.
+2: Nee. Ik vind dat niet nodig.
+
+1.1.1.1.1.1.1.1 -> Je doet het goed. Als je verder geen vragen hebt kun je zelfstandig verder gaan. Als je nog andere vragen hebt start je de coach opnieuw.
+1: Ok. Ik heb verder geen vragen en kan zelfstandig verder.
+
+1.2 ->
+
+2 -> Met welk vervoermiddel ben je aan het reizen?
+1: Ik reis nu met de trein.
+2: Ik reis nu met de bus.
+3: Ik reis nu met de tram.
+4: Ik reis nu met de metro.
